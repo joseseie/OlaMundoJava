@@ -15,7 +15,14 @@ public class OlaMundo {
         
         System.out.println("Olá Mundo!!");
         
-        olaMundo2();
+        olaMundo3();
+        
+    }
+    
+    
+    public static void olaMundo3 () {
+        
+        System.err.println("Olá Mundo 03!!");
         
     }
     
